@@ -1,0 +1,7 @@
+To-Do list for the day
+now the time is 3 10.
+Have to learn about hoe=w hooks works Like(useEffect ,useState).
+Have to learn aboot redux and reducer
+then major of te forntend part we be cleared
+Now Practice java for 1 - 2 hours for youtube by kunal 
+
