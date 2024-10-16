@@ -1,8 +1,10 @@
+Day 16-10-2024
 Here the day start with nice early morning routine
 But waked up at 3,nani came to my house later we both went to hospital at 3 30 \
 no patient is showed up and we waited upto 4 30 watchmen opened the gate we entered inside the hopistal waited for 1hr 30min 
 Slowly one by one patient showed up our token num is 2 we took  the token . And started to our homes
 On th way to house stopped at Nastha point and had two dosa and started back to the homes
 7 30 i went to sleep waked up at 11
-Opened yeaterday repo and checked and cloned the repo and checked the repo is working or not
+Opened yeaterday repo and checked and cloned the repo and checked the repo is working or not.
+Now the time is 15 08 practice git commands 
 
